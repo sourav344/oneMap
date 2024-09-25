@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="17" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T15:58:54 IST" name="Suite" finished-at="2024-09-25T16:00:43 IST" duration-ms="108708">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T15:58:54 IST" name="Test" finished-at="2024-09-25T16:00:43 IST" duration-ms="108708">
+      <class name="demoTests.Tests.OneMapMobileTest">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:demoTests.Tests.OneMapMobileTest@14dd7b39]" started-at="2024-09-25T15:58:54 IST" name="LaunchApplication" finished-at="2024-09-25T15:59:15 IST" duration-ms="20229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="verifyTitle()[pri:0, instance:demoTests.Tests.OneMapMobileTest@14dd7b39]" started-at="2024-09-25T15:59:48 IST" name="verifyTitle" finished-at="2024-09-25T15:59:48 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="testLogo()[pri:1, instance:demoTests.Tests.OneMapMobileTest@14dd7b39]" started-at="2024-09-25T15:59:49 IST" name="testLogo" finished-at="2024-09-25T15:59:50 IST" duration-ms="1119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method signature="communityLogo()[pri:2, instance:demoTests.Tests.OneMapMobileTest@14dd7b39]" started-at="2024-09-25T15:59:50 IST" name="communityLogo" finished-at="2024-09-25T15:59:50 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- communityLogo -->
+        <test-method signature="schoolQueryInfo()[pri:3, instance:demoTests.Tests.OneMapMobileTest@14dd7b39]" started-at="2024-09-25T15:59:50 IST" name="schoolQueryInfo" finished-at="2024-09-25T15:59:51 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- schoolQueryInfo -->
+        <test-method signature="medical()[pri:4, instance:demoTests.Tests.OneMapMobileTest@14dd7b39]" started-at="2024-09-25T15:59:51 IST" name="medical" finished-at="2024-09-25T15:59:51 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- medical -->
+        <test-method signature="hawkerCentre()[pri:5, instance:demoTests.Tests.OneMapMobileTest@14dd7b39]" started-at="2024-09-25T15:59:51 IST" name="hawkerCentre" finished-at="2024-09-25T15:59:51 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hawkerCentre -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demoTests.Tests.OneMapMobileTest@14dd7b39]" started-at="2024-09-25T16:00:40 IST" name="tearDown" finished-at="2024-09-25T16:00:42 IST" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demoTests.Tests.OneMapMobileTest -->
+      <class name="demoTests.Tests.OneMapUITest">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T15:59:15 IST" name="LaunchApplication" finished-at="2024-09-25T15:59:48 IST" duration-ms="33426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="verifyTitle()[pri:0, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T15:59:48 IST" name="verifyTitle" finished-at="2024-09-25T15:59:49 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="testLogo()[pri:1, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T15:59:49 IST" name="testLogo" finished-at="2024-09-25T15:59:50 IST" duration-ms="1860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method signature="communityLogo()[pri:2, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T15:59:50 IST" name="communityLogo" finished-at="2024-09-25T15:59:51 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- communityLogo -->
+        <test-method signature="schoolQueryInfo()[pri:3, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T15:59:51 IST" name="schoolQueryInfo" finished-at="2024-09-25T15:59:51 IST" duration-ms="702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- schoolQueryInfo -->
+        <test-method signature="medical()[pri:4, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T15:59:51 IST" name="medical" finished-at="2024-09-25T15:59:52 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- medical -->
+        <test-method signature="hawkerCentre()[pri:5, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T15:59:52 IST" name="hawkerCentre" finished-at="2024-09-25T15:59:52 IST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hawkerCentre -->
+        <test-method signature="testLogo_negative()[pri:6, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T15:59:52 IST" name="testLogo_negative" finished-at="2024-09-25T16:00:12 IST" duration-ms="20086" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='OneMap_flase_logo']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.0', revision: '15400459dd*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4e1e50a0371ccd8fa91d5870c6b794e, findElement {using=xpath, value=//img[@alt='OneMap_flase_logo']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\Sourav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65458}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65458/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4e1e50a0371ccd8fa91d5870c6b794e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//img[@alt='OneMap_flase_logo']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.0', revision: '15400459dd*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4e1e50a0371ccd8fa91d5870c6b794e, findElement {using=xpath, value=//img[@alt='OneMap_flase_logo']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: C:\Users\Sourav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65458}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65458/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4e1e50a0371ccd8fa91d5870c6b794e
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy11.isDisplayed(Unknown Source)
+at demoTests.Tests.OneMapUITest.testLogo_negative(OneMapUITest.java:94)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1623)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo_negative -->
+        <test-method signature="searchBar()[pri:7, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T16:00:13 IST" name="searchBar" finished-at="2024-09-25T16:00:17 IST" duration-ms="4523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBar -->
+        <test-method signature="verifySearch()[pri:8, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T16:00:17 IST" name="verifySearch" finished-at="2024-09-25T16:00:18 IST" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method signature="navigateHere()[pri:9, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T16:00:18 IST" name="navigateHere" finished-at="2024-09-25T16:00:19 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateHere -->
+        <test-method signature="originsearch()[pri:10, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T16:00:19 IST" name="originsearch" finished-at="2024-09-25T16:00:29 IST" duration-ms="9872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- originsearch -->
+        <test-method signature="threeDimensionView()[pri:11, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T16:00:29 IST" name="threeDimensionView" finished-at="2024-09-25T16:00:40 IST" duration-ms="11424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threeDimensionView -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demoTests.Tests.OneMapUITest@7d3e8655]" started-at="2024-09-25T16:00:42 IST" name="tearDown" finished-at="2024-09-25T16:00:43 IST" duration-ms="735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demoTests.Tests.OneMapUITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
